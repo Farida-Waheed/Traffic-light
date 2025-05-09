@@ -20,7 +20,7 @@ Traffic lights manage vehicle flow at intersections and enhance safety. This pro
 
 ## 👩‍💻 Team Members
 
-- Farida Waheed Abd El Bary
+- Farida Waheed Abdelbary
 - Mohamed Ahmed Mohamed Hassan
 - Raneem Ahmed Refaat
                  
