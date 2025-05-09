@@ -20,12 +20,10 @@ Traffic lights manage vehicle flow at intersections and enhance safety. This pro
 
 ## 👩‍💻 Team Members
 
-| Name                                | ID          |
-|-------------------------------------|-------------|
-| Farida Waheed Abd El Bary          | 221903168   |
-| Mohamed Ahmed Mohamed Hassan       | 221903120   |
-| Raneem Ahmed Refaat                | 221903114   |
-
+- Farida Waheed Abd El Bary
+- Mohamed Ahmed Mohamed Hassan
+- Raneem Ahmed Refaat
+                 
 ---
 
 ## 📘 Project Overview
