@@ -101,6 +101,7 @@ Final circuit was fabricated and soldered on a PCB for real-life testing.
 - **Breadboard Implementation**:
   ![image](https://github.com/user-attachments/assets/d940fea6-4a73-4b34-97d4-5c8458f205c7)
 - **Final PCB Product**:
+  
   ![image](https://github.com/user-attachments/assets/669eea0f-a52f-4850-92d3-436d055f1b53)
   ![image](https://github.com/user-attachments/assets/ce986d88-4ca6-4974-b25e-2cbcc72a2247)
 
